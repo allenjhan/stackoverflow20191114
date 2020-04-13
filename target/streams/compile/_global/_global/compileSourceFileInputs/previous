@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.13.1":{"hashes":[["/Users/allen/rep/stackoverflow20191114/src/main/scala/ListMapHigherOrder.scala","7c4e68b7a3043f311d5631662766d127f90b8fd7"]],"lastModifiedTimes":[]}}]
